@@ -1,0 +1,204 @@
+I'm a 3 years of experience developer on front-end(angular, jquery, reactjs) and back-end(asp.net, flask, codeigniter).
+
+I have almost 2 informal year of experience with python and one with django/flask.
+
+4 non-consecutive months of formal exp (as a part-time job) with python. 
+
+No exp with Amazon Services but Heroku, GitHub, Slack and Trello more
+
+# Have you built an API using Python before? If so, have you ever used the Flask web framework? If so, tell me about it!
+ I've used flask for building post of the Restful Api because of its efficiency and versatility, easy testing and debugging, and perfect for small projects (and just because python is the best).
+
+I've combined:
+
+	- flask(api rest), django(back-end), native react (mobile), html, css(font-end) and mysql (notes taker | freelance),
+
+	- flask(web services), codeigniter(back-end), json(consumed web service), html, css(font-end) and mysql (ticket manager | freelance),
+
+	- flask(back-end), native html, angular, css(font-end) and MSSQL (task manager | internal area project). 
+
+
+
+
+
+
+
+
+
+
+
+I'm a software Technologynologist from Las Americas Institute of Technology and work as developer the last three and a half years developing on back-end (c#, python, php), command line tools (c#, python) and dealing with databases (MSSQL, Mysql) and strong linux skills as good at system administration as network administration.
+
+I have experience with many python libs (network, os, sympy, scipy, sqlAlchemy), Django and the Flask framework.
+
+Python development is a world in which I'm very interested and want to continue learning and growing up.
+
+Im not a fluent speaker but​ could keep a conversation without problems.
+
+Please see the attached resume for further details of my qualifications. I will gladly provide references at your request. My Skype id is zorem1011. I look forward to either meeting you or taking a test. less
+
+# How many projects are you currently working on?
+Two, both for the company I work.
+
+# Are you available to work full time (8h per day)?
+Yes. Actually, I have a job but I'd be glad to work on python.
+
+# How many years of experience you have in Python?
+1½ years. ½ year exp year on Flask Framework.
+
+# How many years of experience you have in Javascript?
+4 years, starting from the ITLA* and since 2013 on a professional environment.
+*details in my resumé
+
+
+
+
+
+hello sir, I'm a python dev with 3 years exp.  Skilled in django, flask, falcon, git, sql, linux env, api rest, clean code.
+
+Look at my profile for more details.
+
+
+
+
+
+Hello,
+
+Here you have my resumed skill list:
+
+==> Programming languages
+-> Python ( 4 / 5 )
+-> Javascript (4 / 5 ) 
+-> Pack front-End (HTML – CSS – JS) (4 /5)
+
+==> Infrastructure: 
+-> GNU/Linux ( 4 / 5)
+-> Apache (3 / 4)
+-> NGINX  (3 / 4)
+-> Heroku (3 / 5)
+
+==> BataBases:
+-> SQL Standart ( 4.5 / 5) (maintenance/administration not included)
+-> MySQL ( 3 / 5 )
+-> MSSQL (4 / 5)
+-> Oracle ( 2 / 5)
+
+==> Other Knowlegde:
+-> Git 
+-> HTTP api rest 
+-> vim, nmap, traceroute, netcat, bash scripting
+
+
+Python      => 3½ Years
+Mongo       => 1 Year
+Angular1    => 2 Years
+Angular4    => 6 Months
+Flask       => 3 Years
+Django		=> 2 Years
+Jquery 		=> 2 Years
+
+AWS / Azure     	 => No Exp
+Twitter Bootstrap    => 4 Years
+Falcon Api Framework => 1 Year
+I'm a 3 years of experience developer on front-end(angular, jquery, reactjs) and back-end(asp.net, flask, codeigniter).
+
+I have almost 2 informal year of experience with python and one with django/flask.
+
+4 non-consecutive months of formal exp (as a part-time job) with python. 
+
+No exp with Amazon Services but Heroku, GitHub, Slack and Trello more
+
+# Have you built an API using Python before? If so, have you ever used the Flask web framework? If so, tell me about it!
+ I've used flask for building post of the Restful Api because of its efficiency and versatility, easy testing and debugging, and perfect for small projects (and just because python is the best).
+
+I've combined:
+
+	- flask(api rest), django(back-end), native react (mobile), html, css(font-end) and mysql (notes taker | freelance),
+
+	- flask(web services), codeigniter(back-end), json(consumed web service), html, css(font-end) and mysql (ticket manager | freelance),
+
+	- flask(back-end), native html, angular, css(font-end) and MSSQL (task manager | internal area project). 
+
+
+
+
+
+
+
+
+
+
+
+I'm a software Technologynologist from Las Americas Institute of Technology and work as developer the last three and a half years developing on back-end (c#, python, php), command line tools (c#, python) and dealing with databases (MSSQL, Mysql) and strong linux skills as good at system administration as network administration.
+
+I have experience with many python libs (network, os, sympy, scipy, sqlAlchemy), Django and the Flask framework.
+
+Python development is a world in which I'm very interested and want to continue learning and growing up.
+
+Im not a fluent speaker but​ could keep a conversation without problems.
+
+Please see the attached resume for further details of my qualifications. I will gladly provide references at your request. My Skype id is zorem1011. I look forward to either meeting you or taking a test. less
+
+# How many projects are you currently working on?
+Two, both for the company I work.
+
+# Are you available to work full time (8h per day)?
+Yes. Actually, I have a job but I'd be glad to work on python.
+
+# How many years of experience you have in Python?
+1½ years. ½ year exp year on Flask Framework.
+
+# How many years of experience you have in Javascript?
+4 years, starting from the ITLA* and since 2013 on a professional environment.
+*details in my resumé
+
+
+
+
+
+hello sir, I'm a python dev with 3 years exp.  Skilled in django, flask, falcon, git, sql, linux env, api rest, clean code.
+
+Look at my profile for more details.
+
+
+
+
+
+Hello,
+
+Here you have my resumed skill list:
+
+==> Programming languages
+-> Python ( 4 / 5 )
+-> Javascript (4 / 5 ) 
+-> Pack front-End (HTML – CSS – JS) (4 /5)
+
+==> Infrastructure: 
+-> GNU/Linux ( 4 / 5)
+-> Apache (3 / 4)
+-> NGINX  (3 / 4)
+-> Heroku (3 / 5)
+
+==> BataBases:
+-> SQL Standart ( 4.5 / 5) (maintenance/administration not included)
+-> MySQL ( 3 / 5 )
+-> MSSQL (4 / 5)
+-> Oracle ( 2 / 5)
+
+==> Other Knowlegde:
+-> Git 
+-> HTTP api rest 
+-> vim, nmap, traceroute, netcat, bash scripting
+
+
+Python      => 3½ Years
+Mongo       => 1 Year
+Angular1    => 2 Years
+Angular4    => 6 Months
+Flask       => 3 Years
+Django		=> 2 Years
+Jquery 		=> 2 Years
+
+AWS / Azure     	 => No Exp
+Twitter Bootstrap    => 4 Years
+Falcon Api Framework => 1 Year
